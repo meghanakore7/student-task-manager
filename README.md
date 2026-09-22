@@ -33,3 +33,6 @@ This project was created as a beginner web development project to practice HTML,
 * Add priority levels
 * Store tasks using browser local storage
 * Add dark mode
+## Screenshot
+
+![Student Task Manager](task-manager-screenshot.png)
